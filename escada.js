@@ -1,0 +1,3 @@
+function escada(altura){
+	
+}
